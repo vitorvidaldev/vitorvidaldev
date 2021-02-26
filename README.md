@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm Vitor Vidal 👋
 
-<!--
-**vitorvidaldev/vitorvidaldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Computer Engineer - UNIFEI [2016-2021]
 
-Here are some ideas to get you started:
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorvidaldev&exclude_repo=Projetos-basicos-usando-Bootstrap&hide=HTML,CSS,C&layout=compact)](https://github.com/vitorvidaldev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I’m currently looking for work!**
+
+How to reach me: 
+  - [LinkedIn](https://www.linkedin.com/in/vitorsilvavidal/)
+  - vitorvidal.dev@gmail.com
+
+
+Pronouns: he/him
