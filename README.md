@@ -1,4 +1,4 @@
-### Hi, I'm Vitor Vidal 👋
+# Vitor Vidal 👋
 
 #### Computer Engineer - UNIFEI [2016-2021]
 
