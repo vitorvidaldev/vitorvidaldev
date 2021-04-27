@@ -18,8 +18,6 @@
   </a>
 </p>
 
-**I’m currently looking for work!**
-
 How to reach me: 
   - [LinkedIn](https://www.linkedin.com/in/vitorsilvavidal/)
   - vitorvidal.dev@gmail.com
