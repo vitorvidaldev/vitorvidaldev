@@ -6,7 +6,7 @@
 ### Most Used Languages
 <p>
     <a href="https://github.com/vitorvidaldev" target="_blank">
-      <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorvidaldev&hide=html,CSS,C,CMAKE&hide_title=true&layout=compact&langs_count=6" />
+      <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorvidaldev&hide=html,CSS,C,CMAKE&hide_title=true&layout=compact&langs_count=5" />
   </a>
 </p>
 
